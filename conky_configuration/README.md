@@ -6,13 +6,11 @@ Fichero .conkyrc que contiene toda la configuración que utilizo a nivel persona
 * Dependiendo del wallpaper utilizado, las letras pueden no verse debido al poco contraste con el fondo.
 * Para mi conky es algo más que un elemento decorativo, es muy útil ver en tiempo real el consumo de recursos sin tener que abrir ninguna aplicación. 
 
-![conky preview](https://i.imgur.com/XhzlxDC.png)
-
 # Instalación
 
 Es tan sencillo como colocar el fichero ".conkyrc" en el directorio $home de tu usuario:
 
-```console
+```bash
 cp .conkyrc ~
 ```
 
