@@ -66,10 +66,10 @@ ${top name 3}$alignr${top cpu 3}
 ${top name 4}$alignr${top cpu 4}
 
 ${color aqua}Highest MEM ${hr 2}${color}
-${top_mem name 1}$alignr${top_mem mem_vsize 1}
-${top_mem name 2}$alignr${top_mem mem_vsize 2}
-${top_mem name 3}$alignr${top_mem mem_vsize 3}
-${top_mem name 4}$alignr${top_mem mem_vsize 4}
+${top_mem name 1}$alignr${top_mem mem 1}
+${top_mem name 2}$alignr${top_mem mem 2}
+${top_mem name 3}$alignr${top_mem mem 3}
+${top_mem name 4}$alignr${top_mem mem 4}
 
 ${color blue}Filesystem ${hr 1}${color}
 
