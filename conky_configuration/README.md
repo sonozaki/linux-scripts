@@ -1,4 +1,4 @@
-# SIMPLE CONFIRACIÓN PERSONAL DE CONKY
+# Simple configuración personal de conky
 
 Fichero .conkyrc que contiene toda la configuración que utilizo a nivel personal en mi conky, por defecto no usa transparencia, aunque pueda parecer antiestético no lo uso por dos motivos:
 
